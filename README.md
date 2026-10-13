@@ -8,5 +8,5 @@ I build practical AI tools for everyday people: no-code setup, Vietnamese-first,
 🌱 Learning: Prompt Engineering (DeepLearning.AI) · Responsive Web Design (freeCodeCamp)
 🛠️ Stack: n8n · Telegram bots · Cloudflare Workers · Vercel · Supabase
 📫 Contact: admin@dichvuso.store · Telegram @dichvusostore
-🎓 ORCID: 0009-0002-6554-1494
+🎓 ORCID: 0009-0002-6654-1494
 📍 Vietnam
